@@ -7,4 +7,8 @@ It is derived from the mapshup applicative framework WPS library (http://mapshup
 Installation
 ============
 Copy everything under an Apache directory.
-Don't forget to configure s/config.php if you are under a proxy
+
+Don't forget :
+  1. to configure s/config.php if you are under a proxy
+  2. to change the proxyUrl url line 37 of index.html depending on where you installed the application
+
